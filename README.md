@@ -38,7 +38,7 @@ As expected, the two unread messages are deleted, as can be seen on the image be
 
 ![DeleteUnread](markdown_images/DeleteUnread.jpg)
 
-Moreover, with the two remaining messages, the excel content is collected, see image below.
+Moreover, with the two remaining messages, the excel content is collected, see image below, or at [MailClient.cs](https://github.com/joshuagoldman/PrintMailExcel/blob/main/MailClient.cs).
 
 ![CollectExcelInfo](markdown_images/CollectExcelInfo.jpg)
 
